@@ -1,0 +1,12 @@
+C:\Users\Amal\Desktop\GitHub\Odevlogin\DatabaseConnTest\bin\Debug\DatabaseConnTest.exe.config
+C:\Users\Amal\Desktop\GitHub\Odevlogin\DatabaseConnTest\bin\Debug\DatabaseConnTest.exe
+C:\Users\Amal\Desktop\GitHub\Odevlogin\DatabaseConnTest\bin\Debug\DatabaseConnTest.pdb
+C:\Users\Amal\Desktop\GitHub\Odevlogin\DatabaseConnTest\obj\Debug\odev2.csproj.AssemblyReference.cache
+C:\Users\Amal\Desktop\GitHub\Odevlogin\DatabaseConnTest\obj\Debug\odev2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amal\Desktop\GitHub\Odevlogin\DatabaseConnTest\obj\Debug\DatabaseConnTest.Form1.resources
+C:\Users\Amal\Desktop\GitHub\Odevlogin\DatabaseConnTest\obj\Debug\DatabaseConnTest.MainPage.resources
+C:\Users\Amal\Desktop\GitHub\Odevlogin\DatabaseConnTest\obj\Debug\DatabaseConnTest.Properties.Resources.resources
+C:\Users\Amal\Desktop\GitHub\Odevlogin\DatabaseConnTest\obj\Debug\odev2.csproj.GenerateResource.cache
+C:\Users\Amal\Desktop\GitHub\Odevlogin\DatabaseConnTest\obj\Debug\odev2.csproj.CoreCompileInputs.cache
+C:\Users\Amal\Desktop\GitHub\Odevlogin\DatabaseConnTest\obj\Debug\DatabaseConnTest.exe
+C:\Users\Amal\Desktop\GitHub\Odevlogin\DatabaseConnTest\obj\Debug\DatabaseConnTest.pdb

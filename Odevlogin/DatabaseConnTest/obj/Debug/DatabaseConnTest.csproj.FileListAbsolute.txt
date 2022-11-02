@@ -1,0 +1,12 @@
+C:\Users\Amal\Desktop\Visual\Ödevler\DatabaseConnTest\DatabaseConnTest\obj\Debug\DatabaseConnTest.csproj.AssemblyReference.cache
+C:\Users\Amal\Desktop\Visual\Ödevler\DatabaseConnTest\DatabaseConnTest\obj\Debug\DatabaseConnTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amal\Desktop\Visual\Ödevler\DatabaseConnTest\DatabaseConnTest\obj\Debug\DatabaseConnTest.Form1.resources
+C:\Users\Amal\Desktop\Visual\Ödevler\DatabaseConnTest\DatabaseConnTest\obj\Debug\DatabaseConnTest.Properties.Resources.resources
+C:\Users\Amal\Desktop\Visual\Ödevler\DatabaseConnTest\DatabaseConnTest\obj\Debug\DatabaseConnTest.csproj.GenerateResource.cache
+C:\Users\Amal\Desktop\Visual\Ödevler\DatabaseConnTest\DatabaseConnTest\obj\Debug\DatabaseConnTest.csproj.CoreCompileInputs.cache
+C:\Users\Amal\Desktop\Visual\Ödevler\DatabaseConnTest\DatabaseConnTest\bin\Debug\DatabaseConnTest.exe.config
+C:\Users\Amal\Desktop\Visual\Ödevler\DatabaseConnTest\DatabaseConnTest\bin\Debug\DatabaseConnTest.exe
+C:\Users\Amal\Desktop\Visual\Ödevler\DatabaseConnTest\DatabaseConnTest\bin\Debug\DatabaseConnTest.pdb
+C:\Users\Amal\Desktop\Visual\Ödevler\DatabaseConnTest\DatabaseConnTest\obj\Debug\DatabaseConnTest.exe
+C:\Users\Amal\Desktop\Visual\Ödevler\DatabaseConnTest\DatabaseConnTest\obj\Debug\DatabaseConnTest.pdb
+C:\Users\Amal\Desktop\Visual\Ödevler\DatabaseConnTest\DatabaseConnTest\obj\Debug\DatabaseConnTest.MainPage.resources
